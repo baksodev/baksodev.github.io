@@ -12,233 +12,233 @@
       "id":11,
       "title":"PROPS_ID",
       "image":"https://baksodev.github.io/img/sakuraschoolsimulatorpropsidbts.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.sakuraschoolsimulatorpropsidbts"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.sakuraschoolsimulatorpropsidbts"
     },
     {
       "id":12,
       "title":"Sakura SChool",
       "image":"https://baksodev.github.io/img/sakuraschoolsimulatorfakecall.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.sakuraschoolsimulatorfakecall"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.sakuraschoolsimulatorfakecall"
     },
     {
       "id":13,
       "title":"Boboiboy",
       "image":"https://baksodev.github.io/img/boboiboy.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.boboiboy"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.boboiboy"
     },
     {
       "id":14,
       "title":"Ronaldo",
       "image":"https://baksodev.github.io/img/cristianoronaldodossantos.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.cristianoronaldodossantos"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.cristianoronaldodossantos"
     },
     {
       "id":15,
       "title":"Messi",
       "image":"https://baksodev.github.io/img/lionelandresmessi.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.lionelandresmessi"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.lionelandresmessi"
     },
 
     {
       "id":16,
       "title":"Giselle Aespa",
       "image":"https://baksodev.github.io/img/aespagiselle.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.aespagiselle"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.aespagiselle"
     },
     {
       "id":17,
       "title":"Karina Aespa",
       "image":"https://baksodev.github.io/img/aespakarina.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.aespakarina"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.aespakarina"
     },
     {
       "id":18,
       "title":"NingNing Aespa",
       "image":"https://baksodev.github.io/img/aespaningning.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.aespaningning"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.aespaningning"
     },
     {
       "id":19,
       "title":"Winter Aespa",
       "image":"https://baksodev.github.io/img/aespawinter.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.aespawinter"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.aespawinter"
     },
 
     {
       "id":20,
       "title":"JHope BTS",
       "image":"https://baksodev.github.io/img/btsjhopefake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btsjhopefake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btsjhopefake"
     },
     {
       "id":21,
       "title":"Jimin BTS",
       "image":"https://baksodev.github.io/img/btsjiminfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btsjiminfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btsjiminfake"
     },
     {
       "id":22,
       "title":"Jungkook BTS",
       "image":"https://baksodev.github.io/img/btsjungkookfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btsjungkookfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btsjungkookfake"
     },
     {
       "id":23,
       "title":"Namjoon BTS",
       "image":"https://baksodev.github.io/img/btskimnamjoonfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btskimnamjoonfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btskimnamjoonfake"
     },
     {
       "id":24,
       "title":"Jin BTS",
       "image":"https://baksodev.github.io/img/btskimseokjinfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btskimseokjinfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btskimseokjinfake"
     },
     {
       "id":25,
       "title":"Suga BTS",
       "image":"https://baksodev.github.io/img/btssugafake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btssugafake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btssugafake"
     },
     {
       "id":26,
       "title":"Taehyung BTS",
       "image":"https://baksodev.github.io/img/btstaehyungfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.btstaehyungfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.btstaehyungfake"
     },
 
     {
       "id":27,
       "title":"Kim Seon-ho",
       "image":"https://baksodev.github.io/img/kimseonho.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.kimseonho"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.kimseonho"
     },
     {
       "id":28,
       "title":"Song Joong-ki",
       "image":"https://baksodev.github.io/img/songjoongki.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.songjoongki"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.songjoongki"
     },
     {
       "id":29,
       "title":"NancyMomoland",
       "image":"https://baksodev.github.io/img/momolandnancy.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.momolandnancy"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.momolandnancy"
     },
 
     {
       "id":30,
       "title":"PesulapMerah",
       "image":"https://baksodev.github.io/img/pesulapmerah.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.pesulapmerah"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.pesulapmerah"
     },
     {
       "id":31,
       "title":"Gus Azmi",
       "image":"https://baksodev.github.io/img/gusazmi.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.gusazmi"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.gusazmi"
     },
     {
       "id":31,
       "title":"Fuji An",
       "image":"https://baksodev.github.io/img/fujianfake.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.fujianfake"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.fujianfake"
     },
     {
       "id":33,
       "title":"Ria Ricis",
       "image":"https://baksodev.github.io/img/riaricisteam.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.riaricisteam"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.riaricisteam"
     },
     {
       "id":34,
       "title":"FrostDiamond",
       "image":"https://baksodev.github.io/img/frostdiamond.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.frostdiamond"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.frostdiamond"
     },
     {
       "id":35,
       "title":"MiauAug",
       "image":"https://baksodev.github.io/img/miauaugreggieprabowo.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.miauaugreggieprabowo"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.miauaugreggieprabowo"
     },
     {
       "id":36,
       "title":"Kuntilanak",
       "image":"https://baksodev.github.io/img/scarykuntilanak.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.scarykuntilanak"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.scarykuntilanak"
     },
     {
       "id":37,
       "title":"Domelipa",
       "image":"https://baksodev.github.io/img/dominikdomelipa.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.dominikdomelipa"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.dominikdomelipa"
     },
     {
       "id":38,
       "title":"Rod Contreras",
       "image":"https://baksodev.github.io/img/rodrigocontreras.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.rodrigocontreras"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.rodrigocontreras"
     },
     {
       "id":39,
       "title":"Felipe Neto",
       "image":"https://baksodev.github.io/img/felipeneto.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.felipeneto"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.felipeneto"
     },
     {
       "id":40,
       "title":"Giovanna",
       "image":"https://baksodev.github.io/img/giovannaalparone.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.giovannaalparone"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.giovannaalparone"
     },
     {
       "id":41,
       "title":"Karol Sevilla",
       "image":"https://baksodev.github.io/img/karolsevillaofc.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.karolsevillaofc"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.karolsevillaofc"
     },
     {
       "id":42,
       "title":"Khaby",
       "image":"https://baksodev.github.io/img/khabylame.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.khabylame"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.khabylame"
     },
     {
       "id":43,
       "title":"Kim Loaiza",
       "image":"https://baksodev.github.io/img/kimberlyloaiza.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.kimberlyloaiza"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.kimberlyloaiza"
     },
     {
       "id":44,
       "title":"Kyle Thomas",
       "image":"https://baksodev.github.io/img/kylethomas.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.kylethomas"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.kylethomas"
     },
     {
       "id":45,
       "title":"Lady Diana",
       "image":"https://baksodev.github.io/img/ladydiana.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.ladydiana"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.ladydiana"
     },
     {
       "id":46,
       "title":"Like Nastya",
       "image":"https://baksodev.github.io/img/likenastya.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.likenastya"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.likenastya"
     },
     {
       "id":47,
       "title":"Luluca",
       "image":"https://baksodev.github.io/img/luluca.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.luluca"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.luluca"
     },
     {
       "id":48,
       "title":"Mont Pantoja",
       "image":"https://baksodev.github.io/img/montpantoja.webp",
-      "https://play.google.com/store/apps/details?id=com.bakso.montpantoja"
+      "link":"https://play.google.com/store/apps/details?id=com.bakso.montpantoja"
     }
   ]
 
